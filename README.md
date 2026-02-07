@@ -1,4 +1,4 @@
-# z-cynema
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -54,7 +54,7 @@
   <section id="contact">
     <h3>Kontak</h3>
     <p>Hubungi kami untuk kerja sama dan project.</p>
-    <a class="btn" href="https://wa.me/628xxxxxxxxxx">WhatsApp</a>
+    <a class="btn" href="https://wa.me/628813149539">WhatsApp</a>
   </section>
 
   <footer>
